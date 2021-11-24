@@ -1,2 +1,5 @@
 .buttonRow {
+  overflow-y: scroll;
+  white-space: nowrap;
+  isolation: isolate;
 }
